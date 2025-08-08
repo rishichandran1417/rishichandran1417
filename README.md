@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rishi Chandran
 
 🎓 Industrial Engineering student at College of Engineering, Trivandrum  
-📊 Aspiring Data Analyst / Business Analyst  
+📊 Aspiring Data Analyst / power bi develpoer 
 📍 Kerala, India  
 📧 rishichandran17@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rishi-chandran-525970262/) 
