@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rishi Chandran
 
 🎓 Industrial Engineering student at College of Engineering, Trivandrum  
-📊 Aspiring Data Analyst / power bi develpoer 
+📊 Aspiring Data Analyst / Power BI Developer  
 📍 Kerala, India  
 📧 rishichandran17@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rishi-chandran-525970262/) 
@@ -10,43 +10,59 @@
 
 ## 🚀 About Me
 
-I'm a motivated Industrial Engineering undergraduate passionate about transforming data into actionable insights. I enjoy building interactive dashboards, analyzing complex datasets, and applying data-driven decision-making to solve real-world problems in logistics, operations, and business.
+I'm a motivated Industrial Engineering undergraduate focused on logistics and operations. I combine engineering principles with data analytics to build interactive dashboards that drive decision-making. Skilled in translating complex datasets into clear, actionable insights using Power BI and Excel.
 
 ---
 
 ## 💼 Tools & Technologies
 
-- **Data Analysis & Visualization**: Excel (Pivot Tables, VLOOKUP, Slicers), Power BI (DAX, Power Query, Relationships)
-- **Project Management & Soft Skills**: Communication, Time Management, Teamwork, Adaptability
-- **Others**: Git, Event Coordination (IEDC, Drishti, Dhwani)
+- **Data Visualization**: Power BI (DAX, Power Query, Modeling), Excel (Pivot Tables, Lookups, Slicers)
+- **Version Control**: Git / GitHub
+- **Soft Skills**: Project Management, Event Coordination, Communication
 
 ---
 
 ## 🧠 Featured Projects
 
 ### ☕ Coffee Sales Dashboard ([View Repo](https://github.com/rishichandran1417/coffee-sales-dashboard))
-A dynamic Excel dashboard visualizing KPIs like total revenue, product breakdowns, and monthly trends using slicers and pivot charts.
+![Screenshot of Coffee Sales Dashboard](path/to/your/image.png)
+**Tech Stack:** Excel (Pivot Tables, Slicers, Power Query)
+* Designed an interactive sales tracking tool to visualize key metrics, including total revenue, product category performance, and monthly sales trends.
+* Implemented dynamic filtering with slicers to allow stakeholders to drill down into specific timeframes and product lines.
 
 ### 🏨 Hotel Performance Dashboard ([View Repo](https://github.com/rishichandran1417/hospiyality))
-Power BI dashboard analyzing revenue by room type, Occupancy %, ADR, RevPAR with city and week-wise filtering to optimize hotel operations.
+![Screenshot of Hotel Dashboard](path/to/your/image.png)
+**Tech Stack:** Power BI (DAX, Data Modeling)
+* Developed a comprehensive hospitality dashboard to track critical KPIs such as Occupancy %, ADR (Average Daily Rate), and RevPAR (Revenue Per Available Room).
+* Enabled city-wise and week-wise filtering to help management identify underperforming locations and optimize room pricing strategies.
 
-### 🏏 IPL Power BI Dashboard ([View Repo](https://github.com/rishichandran1417/ipl_dashboard))
-Interactive IPL 2025 dashboard showing match results, points table, and player stats with filtering by team, player, and season.
+### 🏏 IPL Cricket Analysis Dashboard ([View Repo](https://github.com/rishichandran1417/ipl_dashboard))
+![Screenshot of IPL Dashboard](path/to/your/image.png)
+**Tech Stack:** Power BI (Interactive Visualization, Data Transformation)
+* Created a sports analytics dashboard for IPL 2025, providing insights into match results, real-time points tables, and player statistics.
+* Utilized complex relationships to allow deep-dive comparisons between teams, seasons, and individual player performance.
 
-### 🧑‍💼 Data Professional Survey Dashboard ([View Repo](https://github.com/rishichandran1417/survey))
-Analyzes survey data on roles, salaries, and tech preferences of global data professionals using filters and sentiment analysis.
+### 🧑‍💼 Data Professional Survey Analysis ([View Repo](https://github.com/rishichandran1417/survey))
+![Screenshot of Survey Dashboard](path/to/your/image.png)
+**Tech Stack:** Power BI (Power Query, Sentiment Analysis)
+* Analyzed global survey data to visualize trends in job roles, salary distributions, and programming language preferences within the data industry.
+* Incorporated sentiment analysis visualizations to gauge professional satisfaction and emerging industry shifts.
 
-### 🏥 Hospital Waitlist & Patient Flow Dashboard ([View Repo](https://github.com/rishichandran1417/hospital_waitlist))
-Tracks patient waitlist severity and service distribution to improve hospital efficiency and patient flow with specialty-based filters.
+### 🏥 Hospital Waitlist & Patient Flow ([View Repo](https://github.com/rishichandran1417/hospital_waitlist))
+![Screenshot of Hospital Dashboard](path/to/your/image.png)
+**Tech Stack:** Power BI (Healthcare Analytics, Process Flow)
+* Built an operational dashboard to monitor patient waitlist severity and service distribution, directly applicable to healthcare logistics.
+* Focused on identifying bottlenecks in patient flow to support data-driven decisions for improving hospital efficiency and resource allocation.
 
 ---
 
 ## 🌱 Currently Learning
 
-- SQL for data querying
+- **SQL**: Writing queries for data extraction and manipulation.
 
 ---
 
 ## 📫 Let's Connect!
 
 If you’re interested in collaborating or just want to talk about data, tech, or cricket, feel free to reach out!
+
