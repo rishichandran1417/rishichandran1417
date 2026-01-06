@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a motivated Industrial Engineering undergraduate focused on logistics and operations. I combine engineering principles with data analytics to build interactive dashboards that drive decision-making. Skilled in translating complex datasets into clear, actionable insights using Power BI and Excel.
+I'm a motivated Industrial Engineering undergraduate focused on supply chain,logistics and operations. I combine engineering principles with data analytics to build interactive dashboards that drive decision-making. Skilled in translating complex datasets into clear, actionable insights using Power BI and Excel.
 
 ---
 
