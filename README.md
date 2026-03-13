@@ -24,13 +24,13 @@ I'm a motivated Industrial Engineering undergraduate focused on supply chain,log
 
 ## 🧠 Featured Projects
 
-### 📦 Inventory Management Dashboard ([View Repo](Link_to_your_repo))
+### 📦 Inventory Management Dashboard ([View Repo](https://github.com/rishichandran1417/Inventory-and-Supply-Chain-Management-Analysis-Dashboard))
 ![Screenshot of Inventory Dashboard](https://github.com/rishichandran1417/Inventory-and-Supply-Chain-Management-Analysis-Dashboard/blob/main/Supply%20chain.png)
 **Tech Stack:** Power BI (Supply Chain Analytics, DAX)
 * Created a logistics dashboard to monitor stock levels, turnover rates, and reorder points, directly optimizing inventory holding costs.
 * Analyzed supply chain data to identify slow-moving stock and forecast demand fluctuations.
 
-### 🏦 Bank Customer Churn Analysis ([View Repo](Link_to_your_repo))
+### 🏦 Bank Customer Churn Analysis ([View Repo](https://github.com/rishichandran1417/Bank-Loan-Analysis-Dashboard-Power-BI-))
 ![Screenshot of Bank Churn Dashboard](https://github.com/rishichandran1417/Bank-Loan-Analysis-Dashboard-Power-BI-/blob/main/finance1.png)
 **Tech Stack:** Power BI (Predictive Analytics, Customer Segmentation)
 * Analyzed customer demographics and transaction behaviors to identify patterns leading to account closures (churn).
@@ -68,7 +68,7 @@ I'm a motivated Industrial Engineering undergraduate focused on supply chain,log
 
 ## 🌱 Currently Learning
 
-- **SQL**: Writing queries for data extraction and manipulation.
+- **SAP IBP**
 
 ---
 
