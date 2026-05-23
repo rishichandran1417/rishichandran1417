@@ -5,7 +5,7 @@
 📍 Kerala, India  
 📧 rishichandran17@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rishi-chandran-525970262/) 
-
+🔗 [Portfolio](https://rishichandran.vercel.app/) 
 ---
 
 ## 🚀 About Me
@@ -63,12 +63,6 @@ I'm a motivated Industrial Engineering undergraduate focused on supply chain,log
 **Tech Stack:** Power BI (Healthcare Analytics, Process Flow)
 * Built an operational dashboard to monitor patient waitlist severity and service distribution, directly applicable to healthcare logistics.
 * Focused on identifying bottlenecks in patient flow to support data-driven decisions for improving hospital efficiency and resource allocation.
-
----
-
-## 🌱 Currently Learning
-
-- **SAP IBP**
 
 ---
 
