@@ -1,213 +1,250 @@
-# Hi, I'm Rishi Chandran 👋
 
-### Supply Chain Analytics | Demand Planning | Power BI | SQL | Operations Research
+# 👋 Hi, I'm Rishi Chandran
 
-🎓 Industrial Engineering Undergraduate at College of Engineering Trivandrum (Expected 2027)
-📊 Passionate about Supply Chain Analytics, Demand Planning, Inventory Optimization, and Business Intelligence
-📍 Kerala, India
-📧 [rishichandran17@gmail.com](mailto:rishichandran17@gmail.com)
-🔗 LinkedIn: https://www.linkedin.com/in/rishi-chandran-525970262/
-🔗 Portfolio: https://rishichandran.vercel.app/
+<div align="center">
 
----
+### 📦 Supply Chain Analytics | 📊 Power BI | 📈 Demand Planning | 🐍 Python | ⚙️ Operations Research
 
-## About Me
+#### Building data-driven solutions for inventory optimization, forecasting, logistics analytics, and operational excellence.
 
-I'm an Industrial Engineering student focused on solving business and operational challenges through data-driven decision making.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Industrial+Engineering+Student;Supply+Chain+Analytics+Enthusiast;Power+BI+Developer;Python+for+Analytics;Demand+Planning+%26+Inventory+Optimization" />
 
-My interests lie at the intersection of:
+<br>
 
-* Supply Chain Analytics
-* Demand Forecasting
-* Inventory Optimization
-* Sales & Operations Planning (S&OP)
-* Logistics Analytics
-* Business Intelligence
-* Operations Research
+🎓 Industrial Engineering @ College of Engineering Trivandrum
 
-I enjoy transforming complex datasets into actionable insights using Power BI, SQL, Excel, and analytical modeling techniques.
+📊 Building analytics solutions for Supply Chain, Logistics & Business Operations
+
+🚀 Passionate about Data Analytics, Forecasting & Optimization
+
+</div>
 
 ---
 
-## Technical Skills
+# 💫 About Me
 
-### Supply Chain & Operations
+I am an Industrial Engineering undergraduate passionate about solving operational and supply chain challenges using analytics and data-driven decision-making.
 
-* Demand Forecasting
-* Inventory Management
-* Inventory Optimization
-* EOQ Analysis
-* Safety Stock Planning
-* Reorder Point Analysis
-* ABC Analysis
-* Supply Chain KPI Monitoring
-* Sales & Operations Planning (S&OP)
+My interests include:
 
-### Data Analytics
+- 📦 Supply Chain Analytics
+- 📈 Demand Forecasting
+- 📊 Business Intelligence
+- 📉 Inventory Optimization
+- 🚚 Logistics Analytics
+- 🐍 Data Analytics with Python
+- ⚙️ Operations Research
 
-* Power BI
-* DAX
-* Power Query
-* SQL
-* Advanced Excel
-* Data Modeling
-* Data Visualization
-* Dashboard Development
-
-### Tools
-
-* Git
-* GitHub
-* Microsoft Excel
-* Power BI
+I enjoy transforming raw operational data into actionable insights using Power BI, Excel, SQL, Python, and analytical thinking.
 
 ---
 
-## Featured Projects
+# 📊 Analytics Snapshot
 
-### 📦 Inventory & Supply Chain Management Dashboard
+```text
+Dashboards Built      : 7+
+Power BI Projects     : 6+
+Domains Covered       : Supply Chain
+                         Banking
+                         Hospitality
+                         Healthcare
+                         Sports Analytics
 
-🔗 Repository: https://github.com/rishichandran1417/Inventory-and-Supply-Chain-Management-Analysis-Dashboard
+Tools Used            : Power BI
+                         Excel
+                         SQL
+                         Python
+                         DAX
+                         Power Query
 
-![Inventory Dashboard](https://github.com/rishichandran1417/Inventory-and-Supply-Chain-Management-Analysis-Dashboard/blob/main/Supply%20chain.png)
-
-**Tech Stack:** Power BI, DAX, Supply Chain Analytics
-
-#### Key Highlights
-
-* Built a comprehensive supply chain dashboard for inventory monitoring and performance analysis.
-* Tracked inventory turnover, stock availability, and reorder planning.
-* Identified slow-moving inventory and stockout risks.
-* Developed KPI-driven visualizations for operational decision making.
-
-#### Business Impact
-
-* Improved inventory visibility.
-* Supported data-driven replenishment planning.
-* Enhanced supply chain performance tracking.
-
----
-
-### 🏨 Hotel Performance Analytics Dashboard
-
-🔗 Repository: https://github.com/rishichandran1417/hospitality-
-
-![Hotel Dashboard](https://github.com/rishichandran1417/hospitality-/blob/main/hospitality.png)
-
-**Tech Stack:** Power BI, DAX, Data Modeling
-
-#### Key Highlights
-
-* Analyzed Occupancy %, ADR, and RevPAR metrics.
-* Enabled city-wise and week-wise performance tracking.
-* Built interactive dashboards for hospitality operations.
-
-#### Business Impact
-
-* Supported pricing optimization decisions.
-* Improved visibility into underperforming locations.
-* Enhanced revenue monitoring capabilities.
+Current Focus         : Supply Chain Analytics
+                         Demand Planning
+                         Inventory Optimization
+````
 
 ---
 
-### 🏦 Bank Customer Analysis Dashboard
+# 🌐 Connect With Me
 
-🔗 Repository: https://github.com/rishichandran1417/Bank-Loan-Analysis-Dashboard-Power-BI-
+<div align="center">
 
-![Bank Dashboard](https://github.com/rishichandran1417/Bank-Loan-Analysis-Dashboard-Power-BI-/blob/main/finance1.png)
+<a href="https://www.linkedin.com/in/rishi-chandran-525970262/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**Tech Stack:** Power BI, Customer Analytics
+<a href="https://rishichandran.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-#### Key Highlights
+<a href="mailto:rishichandran17@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-* Performed customer segmentation and behavioral analysis.
-* Identified patterns associated with customer churn.
-* Visualized customer demographics and transaction insights.
-
-#### Business Impact
-
-* Helped identify at-risk customer groups.
-* Supported customer retention strategies.
-
----
-
-### 🏥 Hospital Waitlist & Patient Flow Dashboard
-
-🔗 Repository: https://github.com/rishichandran1417/hospital_waitlist
-
-![Hospital Dashboard](https://github.com/rishichandran1417/hospital_waitlist/blob/main/hospital.png)
-
-**Tech Stack:** Power BI, Healthcare Analytics
-
-#### Key Highlights
-
-* Monitored patient waitlists and treatment distribution.
-* Identified bottlenecks in healthcare service delivery.
-* Created operational KPI dashboards.
-
-#### Business Impact
-
-* Improved visibility into patient flow.
-* Supported resource allocation decisions.
+</div>
 
 ---
 
-### ☕ Coffee Sales Dashboard
+# 💻 Tech Stack
 
-🔗 Repository: https://github.com/rishichandran1417/coffee-sales-dashboard
+<div align="center">
 
-**Tech Stack:** Excel, Power Query, Pivot Tables
+## 📊 Analytics & Business Intelligence
 
-#### Key Highlights
+<img src="https://img.icons8.com/color/96/power-bi.png" alt="Power BI" width="80" height="80"/>
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" alt="Excel" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
 
-* Built an interactive sales dashboard.
-* Analyzed revenue, product performance, and sales trends.
-* Implemented dynamic filtering and drill-down functionality.
+<br><br>
 
-#### Business Impact
+## ⚒️ Tools & Platforms
 
-* Improved sales performance monitoring.
-* Enhanced reporting efficiency.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="80" height="80"/>
 
----
-
-### 🏏 IPL Cricket Analytics Dashboard
-
-🔗 Repository: https://github.com/rishichandran1417/ipl_dashboard
-
-![IPL Dashboard](https://github.com/rishichandran1417/ipl_dashboard/blob/main/ipl.png)
-
-**Tech Stack:** Power BI, Data Visualization
-
-#### Key Highlights
-
-* Built a sports analytics dashboard for IPL performance analysis.
-* Created interactive points tables and player statistics reports.
-* Enabled comparison across teams and seasons.
+</div>
 
 ---
 
-### 📊 Data Professional Survey Analysis
+# 📦 Core Expertise
 
-🔗 Repository: https://github.com/rishichandran1417/survey
+<div align="center">
 
-**Tech Stack:** Power BI, Power Query
+| Supply Chain              | Analytics                | Operations             |
+| ------------------------- | ------------------------ | ---------------------- |
+| 📈 Demand Forecasting     | 📊 Dashboard Development | ⚙️ Operations Research |
+| 📦 Inventory Optimization | 🐍 Python Analytics      | 🚚 Logistics Analytics |
+| 🔄 S&OP                   | 🗄 SQL Analytics         | 📋 Process Improvement |
+| 🏭 Supply Chain Analytics | 📑 Business Intelligence | 🎯 Decision Support    |
 
-#### Key Highlights
-
-* Analyzed salary trends and professional demographics.
-* Visualized technology adoption and programming language preferences.
-* Explored job satisfaction indicators.
+</div>
 
 ---
 
-## Certifications
+# 🚀 Featured Projects
+
+## 📈 Multi-SKU Demand Planning & Inventory Optimization Model
+
+<img src="https://github.com/rishichandran1417/FMCG-Supply-Chain-Project/blob/main/fmcg-supply-chain-analytics/Sreenshots/1.png" width="100%">
+
+### Overview
+
+Developed an end-to-end demand planning and inventory optimization solution covering forecasting, inventory control, bullwhip analysis, replenishment planning, and S&OP gap monitoring across multiple warehouses.
+
+### Key Achievements
+
+✔ Analyzed bullwhip amplification ratios from **0.48** to **1.71**
+
+✔ Generated a **6-Month Forecast of 1.50M Units**
+
+✔ Built EOQ, Safety Stock, Reorder Point, and Days of Cover calculations
+
+✔ Flagged **12 Critical Warehouse-SKU Combinations**
+
+✔ Identified **SKU007 (Dove Shampoo – Bangalore)** as the most urgent replenishment risk
+
+✔ Quantified an average **75% Demand-Supply Shortage**
+
+### Dashboard Highlights
+
+📦 15 SKUs
+
+🏭 3 Warehouses
+
+📊 1.50M Forecast Demand
+
+📦 197K Closing Stock
+
+⚠️ 15 SKUs in Shortage
+
+📈 Bullwhip Ratio Monitoring
+
+### Technologies
+
+`Power BI` `Advanced Excel` `Forecasting Models` `Inventory Optimization`
+
+🔗 Repository:
+[YOUR_REPOSITORY_LINK](https://github.com/rishichandran1417/FMCG-Supply-Chain-Project/tree/main/fmcg-supply-chain-analytics)
+
+---
+
+## 🔄 Supply Chain Performance & S&OP Analytics Dashboard
+
+<img src="YOUR_SOP_DASHBOARD_IMAGE_LINK" width="100%">
+
+### Overview
+
+Supply chain performance dashboard focused on supplier performance, inventory health, logistics KPIs, and S&OP decision support.
+
+### Key Achievements
+
+✔ Benchmarked 5 Suppliers using OTIF, Fill Rate, and Lead Time Variance
+
+✔ Identified SUP005 as the highest-risk supplier
+
+✔ Diagnosed Forecast Accuracy Gap against industry benchmarks
+
+✔ Automated KPI monitoring and supplier performance analysis
+
+✔ Identified high-cost transportation corridors for logistics optimization
+
+### Operational Insights
+
+📈 Forecast Accuracy: 90.91%
+
+📦 Fill Rate: 89.05%
+
+🏭 Warehouse Utilization: 34.08%
+
+🔄 Inventory Turnover: 23.47
+
+📅 Days of Inventory: 15.56
+
+### Technologies
+
+`Power BI` `Advanced Excel` `S&OP Analytics` `Supplier Analytics`
+
+🔗 Repository:
+YOUR_REPOSITORY_LINK
+
+---
+
+## 📦 Inventory & Supply Chain Management Dashboard
+
+<img src="https://github.com/rishichandran1417/Inventory-and-Supply-Chain-Management-Analysis-Dashboard/blob/main/Supply%20chain.png" width="100%">
+
+### Overview
+
+Supply chain analytics dashboard developed to monitor inventory performance, stock movement, replenishment planning, and logistics KPIs.
+
+### Key Insights
+
+✔ Inventory Turnover Analysis
+
+✔ Reorder Point Monitoring
+
+✔ Stock Availability Tracking
+
+✔ Logistics Performance Analysis
+
+✔ Supply Chain KPI Dashboard
+
+### Technologies
+
+`Power BI` `DAX` `Power Query`
+
+🔗 Repository:
+https://github.com/rishichandran1417/Inventory-and-Supply-Chain-Management-Analysis-Dashboard
+
+
+---
+
+# 🎓 Certifications
 
 ### Supply Chain Management and Analytics
 
 Authorized by Unilever | Coursera
-
-Skills Covered:
 
 * Supply Chain Strategy
 * Demand Planning
@@ -217,42 +254,35 @@ Skills Covered:
 
 ---
 
-## Current Focus
+# 📚 Current Focus
 
-* Demand Forecasting Models
-* Inventory Optimization
-* Supply Chain Analytics
-* SQL for Data Analysis
-* Advanced Power BI Development
-* Operations Research Applications
+<div align="center">
 
----
+📦 Supply Chain Analytics
 
-## GitHub Statistics
+📈 Demand Forecasting
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishichandran1417\&show_icons=true\&theme=default)
+📊 Power BI Development
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishichandran1417\&layout=compact)
+🗄 SQL Analytics
 
----
+🐍 Python for Analytics
 
-## Let's Connect
+⚙️ Operations Research
 
-I'm always interested in discussing:
+🚚 Inventory Optimization
 
-* Supply Chain Analytics
-* Demand Planning
-* Inventory Optimization
-* Business Intelligence
-* Data Analytics
-* Operations Research
-
-📧 Email: [rishichandran17@gmail.com](mailto:rishichandran17@gmail.com)
-
-🔗 LinkedIn: https://www.linkedin.com/in/rishi-chandran-525970262/
-
-🌐 Portfolio: https://rishichandran.vercel.app/
+</div>
 
 ---
 
-> "Turning operational data into actionable business decisions through analytics."
+<div align="center">
+
+## 📦 Turning Operational Data Into Business Decisions
+
+### Supply Chain Analytics • Demand Planning • Business Intelligence
+
+Open to Internships, Graduate Roles, and Analytics Opportunities
+
+</div>
+```
