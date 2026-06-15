@@ -165,7 +165,7 @@ Developed an end-to-end demand planning and inventory optimization solution cove
 `Power BI` `Advanced Excel` `Forecasting Models` `Inventory Optimization`
 
 🔗 Repository:
-[YOUR_REPOSITORY_LINK](https://github.com/rishichandran1417/FMCG-Supply-Chain-Project/tree/main/fmcg-supply-chain-analytics)
+[View Repo](https://github.com/rishichandran1417/FMCG-Supply-Chain-Project/tree/main/fmcg-supply-chain-analytics)
 
 ---
 
