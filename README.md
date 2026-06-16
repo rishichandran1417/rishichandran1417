@@ -169,7 +169,7 @@ Developed an end-to-end demand planning and inventory optimization solution cove
 
 ---
 
-## 🔄 Supply Chain Performance & S&OP Analytics Dashboard
+## 🔄 Supply Chain Performance & S&OP Analytics 
 
 <img src="YOUR_SOP_DASHBOARD_IMAGE_LINK" width="100%">
 
