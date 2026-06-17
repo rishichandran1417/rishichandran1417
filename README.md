@@ -171,7 +171,7 @@ Developed an end-to-end demand planning and inventory optimization solution cove
 
 ## 🔄 Supply Chain Performance & S&OP Analytics 
 
-<img src="YOUR_SOP_DASHBOARD_IMAGE_LINK" width="100%">
+<img src="https://github.com/rishichandran1417/Supply-Chain-Performance-S-OP-Analytics/blob/main/Supply-Chain-Performance-S-OP-Analytics/Screenshot/KPI_Summary.png" width="100%">
 
 ### Overview
 
@@ -206,7 +206,8 @@ Supply chain performance dashboard focused on supplier performance, inventory he
 `Power BI` `Advanced Excel` `S&OP Analytics` `Supplier Analytics`
 
 🔗 Repository:
-YOUR_REPOSITORY_LINK
+[View Repo](https://github.com/rishichandran1417/Supply-Chain-Performance-S-OP-Analytics)
+
 
 ---
 
@@ -235,7 +236,7 @@ Supply chain analytics dashboard developed to monitor inventory performance, sto
 `Power BI` `DAX` `Power Query`
 
 🔗 Repository:
-https://github.com/rishichandran1417/Inventory-and-Supply-Chain-Management-Analysis-Dashboard
+[View Repo](https://github.com/rishichandran1417/Inventory-and-Supply-Chain-Management-Analysis-Dashboard)
 
 
 ---
