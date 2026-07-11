@@ -71,7 +71,7 @@ Demand Planning, and Business Intelligence.
 | Supply Chain Analytics | Business Intelligence | Decision Support |
 
 </div>
----
+
 
 <h1 align="center">🚀 Featured Projects</h1>
 
